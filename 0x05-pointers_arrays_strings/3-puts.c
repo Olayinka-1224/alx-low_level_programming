@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * _puts - prints a string to stdout.
- * @str: The string to be printed.
- * Return: the length of the string
+ * _puts - prints a string to stdout
+ * @str: string to print
+ *
+ * Return: the length of a string
  */
-
 void _puts(char *str)
 {
 	int a = 0;
